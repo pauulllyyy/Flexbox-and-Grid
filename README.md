@@ -1,1 +1,1 @@
-# activites
+ACTIVTIES FLEXBOX, GRID
